@@ -1,3 +1,3 @@
-# Color Detection 
+# Parking Space Calculator
 
-Detecting color with Python and OpenCV using HSV colorspace
+Detecting parking Space and calculating in real time with Python, Sikit and OpenCV 
